@@ -4,4 +4,6 @@
 ### Arquitetura
 A organização do código tem como base a **Clean Architecture** seguindo o conceito básico da separação do sistema em camadas, ou seja, diversas pastas que possuem classes com responsibilidades únicas e exclusivas.
 
+### Introdução
+
 
