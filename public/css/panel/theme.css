@@ -1,0 +1,37 @@
+/* https://paletadecolores.online/pt/colors/2196f3/ */
+:root
+{
+    --bs-primary: #3e5f8a;
+    --bs-primary-light-1: #657fa1;
+    --bs-primary-light-2: #8b9fb9;
+    --bs-primary-light-3: #b2bfd0;
+    --bs-primary-light-4: #d8dfe8;
+
+    --bs-primary-dark-1: #324c6e;
+
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+ 
+    --bs-tertiary: rgba(33, 37, 41, 0.5);
+    --bs-tertiary-1: rgba(33, 37, 41, 0.6);
+    --bs-tertiary-2: rgba(33, 37, 41, 0.7);
+
+    --bs-secondary-bg: #e9ecef;
+    --bs-tertiary-bg: #f8f9fa;
+
+    --bs-danger: #dc3545;
+    --bs-danger-light-1: #e35d6a;
+    --bs-danger-light-2: #ea868f;
+
+    --bs-danger-dark-1: #b02a37;
+
+    --bs-light: #f8f9fa;
+    --bs-dark: #212529;
+    --bs-dark-light: #2d3034;
+
+    --bs-shadow: rgba(51, 51, 51, 0.08);
+
+    --bs-body-color: #495057;
+}

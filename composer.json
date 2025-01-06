@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "coderaiz\\": "src/"
+        }
+    },
+    "require": {
+        "php-di/php-di": "^7.0",        
+        "devraiz/helpers": "^1.0",
+        "devraiz/files": "^1.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}

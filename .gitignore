@@ -1,0 +1,7 @@
+.vscode/
+*.md
+vendor/
+.env
+config.js
+logs/
+composer.lock
